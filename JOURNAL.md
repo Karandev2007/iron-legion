@@ -47,3 +47,13 @@ UPDATE 3 (4h)
 
 - made small knob handles for storage box, back lid and helping hands
 - sourced more components and miscs
+
+Day 2 (31/7/25): (2h)
+UPDATE 1
+- Completed CAD, polished all parts.
+- Fixed major measurement issues and exported all parts.
+- done with readme and bom and other things
+<img width="606" height="648" alt="image" src="https://github.com/user-attachments/assets/0966f6e9-307f-47e9-85dd-3306d865d506" />
+<img width="559" height="581" alt="image" src="https://github.com/user-attachments/assets/a1fb3aeb-ebb3-403b-8f64-5dc2ddba5cce" />
+
+## Total Time Spend: 11.3 Hours
