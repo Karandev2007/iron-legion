@@ -9,7 +9,7 @@ A Custom soldering station with helping hands that have clips, fan, light, a sim
 
 ## BOM
 
-| Components | Amount | Price (USD) | Buy Link |
+| Components | Amount | Price | Buy Link |
 |---|---|---|---|
 | Ribbon Cable Wire | 1 | $0.30 | [link](https://makerbazar.in/products/multi-coloured-ribbon-cable-wire?variant=40914898813079) |
 | MRS GX Jack Aviation Plug Socket | 1 | $0.63 | [link](https://makerbazar.in/products/gx-jack-aviation-plug-socket?variant=46816709837040) |
@@ -27,8 +27,22 @@ A Custom soldering station with helping hands that have clips, fan, light, a sim
 | Male Power Cord Inlet Socket | 2 | $0.30 | [link](https://makerbazar.in/products/ac-250v-10a-iec320-c14-male-power-cord-inlet-socket-with-fuse-holder?variant=44619938889968) |
 | PVC Copper Wire | 3 | $0.65 | [link](https://makerbazar.in/products/1-5mm-pvc-insulated-single-core-flexible-copper-wire-roll?variant=44819644023024) |
 | M3 8mm screws | 35 | $0.80 | [link](https://novo3d.in/self-tapping-screws/) |
-| Miscs | $2 | [link](https://novo3d.in/self-tapping-screws/) |
+| Miscs | $2 |
 
 Shipping and extra fees: $0.46 (makerbazar) + $0.85 (amazon)
 
 Total: $14.97
+
+
+## CAD Models
+[iron-legion-assembled](https://github.com/Karandev2007/iron-legion/blob/main/CAD/iron-legion-assembled.step)
+[main_body](https://github.com/Karandev2007/iron-legion/blob/main/CAD/main_body.step)
+[power_panel](https://github.com/Karandev2007/iron-legion/blob/main/CAD/power_panel.step)
+[back_lid](https://github.com/Karandev2007/iron-legion/blob/main/CAD/back_lid.step)
+[inner_drawer](https://github.com/Karandev2007/iron-legion/blob/main/CAD/inner_drawer.step)
+[outer_drawer](https://github.com/Karandev2007/iron-legion/blob/main/CAD/outer_drawer.step)
+[2-leg-switch](https://github.com/Karandev2007/iron-legion/blob/main/CAD/2-leg-switch.step)
+[GX12-2P](https://github.com/Karandev2007/iron-legion/blob/main/CAD/GX12-2P.step)
+[power_switch](https://github.com/Karandev2007/iron-legion/blob/main/CAD/power_switch.step)
+[soldering_iron_stand](https://github.com/Karandev2007/iron-legion/blob/main/CAD/soldering_iron_stand.step)
+[stands](https://github.com/Karandev2007/iron-legion/blob/main/CAD/stands.step)
