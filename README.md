@@ -36,13 +36,23 @@ Total: $14.97
 
 ## CAD Models
 [iron-legion-assembled](https://github.com/Karandev2007/iron-legion/blob/main/CAD/iron-legion-assembled.step)
+
 [main_body](https://github.com/Karandev2007/iron-legion/blob/main/CAD/main_body.step)
+
 [power_panel](https://github.com/Karandev2007/iron-legion/blob/main/CAD/power_panel.step)
+
 [back_lid](https://github.com/Karandev2007/iron-legion/blob/main/CAD/back_lid.step)
+
 [inner_drawer](https://github.com/Karandev2007/iron-legion/blob/main/CAD/inner_drawer.step)
+
 [outer_drawer](https://github.com/Karandev2007/iron-legion/blob/main/CAD/outer_drawer.step)
+
 [2-leg-switch](https://github.com/Karandev2007/iron-legion/blob/main/CAD/2-leg-switch.step)
+
 [GX12-2P](https://github.com/Karandev2007/iron-legion/blob/main/CAD/GX12-2P.step)
+
 [power_switch](https://github.com/Karandev2007/iron-legion/blob/main/CAD/power_switch.step)
+
 [soldering_iron_stand](https://github.com/Karandev2007/iron-legion/blob/main/CAD/soldering_iron_stand.step)
+
 [stands](https://github.com/Karandev2007/iron-legion/blob/main/CAD/stands.step)
