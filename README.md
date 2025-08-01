@@ -9,7 +9,7 @@ A Custom soldering station with helping hands that have clips, fan, light, a sim
 
 ## BOM
 
-| Components | Amount | Price | Buy Link |
+| Components | Amount | Total Price | Buy Link |
 |---|---|---|---|
 | Ribbon Cable Wire | 1 | $0.30 | [link](https://makerbazar.in/products/multi-coloured-ribbon-cable-wire?variant=40914898813079) |
 | MRS GX Jack Aviation Plug Socket | 1 | $0.63 | [link](https://makerbazar.in/products/gx-jack-aviation-plug-socket?variant=46816709837040) |
