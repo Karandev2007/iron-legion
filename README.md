@@ -27,11 +27,12 @@ A Custom soldering station with helping hands that have clips, fan, light, a sim
 | Male Power Cord Inlet Socket | 2 | $0.30 | [link](https://makerbazar.in/products/ac-250v-10a-iec320-c14-male-power-cord-inlet-socket-with-fuse-holder?variant=44619938889968) |
 | PVC Copper Wire | 3 | $0.65 | [link](https://makerbazar.in/products/1-5mm-pvc-insulated-single-core-flexible-copper-wire-roll?variant=44819644023024) |
 | M3 8mm screws | 35 | $0.80 | [link](https://novo3d.in/self-tapping-screws/) |
+| M5 16mm bolts (pack) | 1 | $0.97 | [link](https://makerbazar.in/products/stainless-steel-allen-head-nut-bolt-washer-set?variant=44137391980784) |
 | Miscs | $2 |
 
-Shipping and extra fees: $0.46 (makerbazar) + $0.85 (amazon)
+Shipping and extra fees: $0.46 (makerbazar) + $0.85 (amazon) + $0.80 (nova3d)
 
-Total: $14.97
+Total: $16.74
 
 
 ## CAD Models
