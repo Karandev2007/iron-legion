@@ -5,7 +5,7 @@ A Custom soldering station with helping hands that have clips, fan, light, a sim
 
 <img width="280" height="291" alt="Fusion360_x1NiNCaAHw" src="https://github.com/user-attachments/assets/6ff9339d-edfd-45fe-93ce-3eb7409b561c" />
 <img width="1245" height="521" alt="image" src="https://github.com/user-attachments/assets/ac13edb2-a42c-485c-ab97-f58d9cba3f77" />
-<img width="436" height="454" alt="image" src="https://github.com/user-attachments/assets/bdf737eb-611a-4785-8c75-b889dd9e37d7" />
+<img width="1703" height="611" alt="image" src="https://github.com/user-attachments/assets/36cb5fae-dccb-47d7-ac2d-d69051758beb" />
 
 ## BOM
 
